@@ -1,1 +1,1 @@
-#Función que calcula el promedio de una lista en python
+Función que calcula el promedio de una lista en python
